@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AdamKamil
 - 👀 I’m interested in STEM
 - 🌱 I’m currently learning Node.js and C++
+- Working as automation test engineer 
 
 
 <!---
